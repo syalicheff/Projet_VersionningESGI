@@ -1,11 +1,6 @@
 # Projet Création repository GitHub
-
-Création d'un repository avec les bonnes pratiques
 ## Description
-
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
+Ce projet est une création d'un repository Git en utilisant les bonnes pratiques vues en cours 
 
 ### Dependencies
 
@@ -17,11 +12,10 @@ An in-depth paragraph about your project and overview of use.
 * Simply fork this repository
 
 
-## Authors
+## Author
 
-
-ex. Sébastien YALICHEFF  
-ex. yalicheff.sebastien@gmail.com
+* Sébastien YALICHEFF  ( https://github.com/syalicheff )
+* yalicheff.sebastien@gmail.com
 
 ## Version History
 
